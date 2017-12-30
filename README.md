@@ -33,7 +33,9 @@ Host:	[https://initiate.host/](https://initiate.host/)
 
 **JSON Rest Endpoints.**   
 
-Normal Usage: /anime/{ID}  i.e.: [https://initiate.host/anime/1](https://initiate.host/anime/1)
+Anime usage:  /anime/{ID}  i.e.: [https://initiate.host/anime/1](https://initiate.host/anime/1)
+Search usage: /search/{query}  i.e.: [https://initiate.host/search/fullmetal](https://initiate.host/anime/fullmetal)
+       Params:  type{TV/OVA/Movie/Special/ONA/Music}   i.e.: [https://initiate.host/search/fullmetal?type=tv](https://initiate.host/anime/fullmetal?type=tv)
   
 For logs: /stratum/loggs/{ID}  
 In case you want to filter the level, there's the parameter with 3 options called level:  
