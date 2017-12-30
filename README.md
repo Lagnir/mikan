@@ -34,6 +34,7 @@ Host:	[https://initiate.host/](https://initiate.host/)
 **JSON Rest Endpoints.**   
 
 Anime usage:  /anime/{ID}  i.e.: [https://initiate.host/anime/1](https://initiate.host/anime/1)
+
 Search usage: /search/{query}  i.e.: [https://initiate.host/search/fullmetal](https://initiate.host/search/fullmetal)
 
        Params:  type{TV/OVA/Movie/Special/ONA/Music}   
